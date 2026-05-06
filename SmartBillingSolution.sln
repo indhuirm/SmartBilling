@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBilling.API", "SmartBilling.API\SmartBilling.API.csproj", "{735381C9-BA08-64C4-4215-7ED004815CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBilling.Application", "SmartBilling.Application\SmartBilling.Application.csproj", "{A188E1FA-978A-E12F-B8B8-1BF8B9C3CEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBilling.Core", "SmartBilling.Core\SmartBilling.Core.csproj", "{708FF22F-B673-B88D-8208-91EB79520581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBilling.Infrastructure", "SmartBilling.Infrastructure\SmartBilling.Infrastructure.csproj", "{4C087C55-60C9-D774-E313-B44E8B7A671F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBilling.Testing", "SmartBilling.Testing\SmartBilling.Testing.csproj", "{78629CF9-883A-B5D1-9894-926681974294}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\OneDrive\Desktop\Logical Diagram.pdf = ..\..\OneDrive\Desktop\Logical Diagram.pdf
+		..\..\OneDrive\Desktop\Sequence Diagram.pdf = ..\..\OneDrive\Desktop\Sequence Diagram.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735381C9-BA08-64C4-4215-7ED004815CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735381C9-BA08-64C4-4215-7ED004815CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735381C9-BA08-64C4-4215-7ED004815CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735381C9-BA08-64C4-4215-7ED004815CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A188E1FA-978A-E12F-B8B8-1BF8B9C3CEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A188E1FA-978A-E12F-B8B8-1BF8B9C3CEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A188E1FA-978A-E12F-B8B8-1BF8B9C3CEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A188E1FA-978A-E12F-B8B8-1BF8B9C3CEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708FF22F-B673-B88D-8208-91EB79520581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708FF22F-B673-B88D-8208-91EB79520581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708FF22F-B673-B88D-8208-91EB79520581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708FF22F-B673-B88D-8208-91EB79520581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C087C55-60C9-D774-E313-B44E8B7A671F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C087C55-60C9-D774-E313-B44E8B7A671F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C087C55-60C9-D774-E313-B44E8B7A671F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C087C55-60C9-D774-E313-B44E8B7A671F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78629CF9-883A-B5D1-9894-926681974294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78629CF9-883A-B5D1-9894-926681974294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78629CF9-883A-B5D1-9894-926681974294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78629CF9-883A-B5D1-9894-926681974294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127CFA92-4951-4258-9D27-C0F890D71B98}
+	EndGlobalSection
+EndGlobal
