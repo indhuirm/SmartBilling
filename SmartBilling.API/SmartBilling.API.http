@@ -1,0 +1,6 @@
+@SmartBilling.API_HostAddress = http://localhost:5210
+
+GET {{SmartBilling.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
